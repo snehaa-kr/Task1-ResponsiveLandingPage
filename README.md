@@ -2,7 +2,7 @@ Responsive Landing Page with Interactive Navigation
 
 A sleek and modern responsive landing page with an interactive navigation menu. The menu changes color when scrolled and highlights menu items on hover, providing a dynamic and engaging user experience.
 
-Features
+Features:
 
 • Responsive Design: Looks great on devices of all sizes, from desktops to mobile phones.
 
@@ -13,7 +13,7 @@ Features
 • Modern Layout: Clean and professional design.
 
 
-Technologies Used
+Technologies Used:
 
 • HTML5: Structuring the webpage content.
 
